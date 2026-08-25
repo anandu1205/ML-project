@@ -1,7 +1,4 @@
-# My GPT — Built from Scratch
 
-
-> Built by **Anandu Vinod** on August 25, 2026
 
 
 The problems progressively build from gradient descent fundamentals all the way to a working GPT.
